@@ -9,27 +9,7 @@
 ✅ Fast & Accurate OCR Processing using Tesseract.js
 ✅ Smooth User Experience with loading indicators
 
-🏗️ Project Structure
-📂 image-to-text-convertor
-┣ 📂 client (Frontend - React)
-┃ ┣ 📂 src
-┃ ┃ ┣ 📂 components
-┃ ┃ ┃ ┣ 📜 ImageUploader.js
-┃ ┃ ┃ ┣ 📜 TextDisplay.js
-┃ ┃ ┣ 📜 App.js
-┃ ┃ ┣ 📜 styles.css
-┃ ┃ ┣ 📜 index.js
-┃ ┣ 📜 package.json
-┃ ┣ 📜 README.md
-┃ ┗ 📜 .gitignore
-┃
-┣ 📂 server (Backend - Node.js)
-┃ ┣ 📜 server.js
-┃ ┣ 📜 config.js
-┃ ┣ 📜 package.json
-┃ ┗ 📂 uploads (Image Storage)
-┃
-┗ 📜 README.md
+
 
 🛠️ Tech Stack
 Frontend (React)
